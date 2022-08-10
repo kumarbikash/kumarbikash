@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kumarbikash
-- 💞️ I’m interested and looking to collaborate in the areas of IT Infrastructure Management, IT Service Management, IT Operations, and IT Support 
+- 💞️ My areas of interest include various IT sub-domains - Infrastructure & Operations, Service & Support, Development, Physical Security, etc. 
 - 📫 You may also reach me at https://www.linkedin.com/in/-bikash-kumar-/ 
 
 <!--- 
